@@ -1,13 +1,13 @@
 🚀 Passionate Software Developer and Computer Scientist
 
-Hello there! I'm [Your Name], a dedicated software developer and computer scientist currently 
+Hello there! I'm Obed, a dedicated software developer and computer scientist currently 
 pursuing my studies at the University of Rwanda. With a fervent passion for technology,
 I specialize in crafting innovative and efficient solutions that transcend the ordinary.
 
 👨‍💻 Technical Expertise:
 
 My journey in the realm of software development has equipped me with a robust skill set.
-Proficient in languages such as [mention specific languages you excel in],
+Proficient in languages such as HTM,CSS,JS,React<C,C++,C#,SQL,...
 I thrive in creating software that not only meets but exceeds expectations.
 From intricate algorithm design to user-friendly interfaces, I bring a holistic approach to every project.
 
